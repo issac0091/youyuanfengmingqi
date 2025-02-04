@@ -1,0 +1,1 @@
+music._playDefaultBackground(music.builtInPlayableMelody(Melodies.Birthday), music.PlaybackMode.LOOPING_IN_BACKGROUND)
